@@ -1,13 +1,13 @@
 .bg-primary {
-  background-color: $primary !important;
+  background-color: $blue !important;
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $blue !important;
 }
 
 a {
-  color: $primary;
+  color: $blue;
   &:hover,
   &:focus,
   &:active {
