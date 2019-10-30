@@ -120,8 +120,8 @@
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Desenvolvedor</h3>
+            <div class="resume-coDntent mr-auto">
+              <h3 class="mb-0">Bolsista</h3>
               <div class="subheading mb-3">BIMO UFC</div>
               <p>Atuo como pesquisador e desenvolvedor na plataforma de serviços para hardware Bematech.</p>
             </div>
@@ -180,10 +180,7 @@
               <i class="devicons devicons-java"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-c"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-cplusplus"></i>
+              <i class="devicons devicons-android"></i>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-git"></i>
